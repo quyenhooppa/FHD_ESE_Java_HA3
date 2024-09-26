@@ -12,4 +12,4 @@ ICEV infomation: Model:Lexus - Years of manufacture:2023 - Color:Silver - Engine
 
 BEV infomation: Model:BMW - Years of manufacture:2024 - Color:Blue - Engine:Electric Engine
 
-HybridV infomation: Model:Toyota - Years of manufacture:2024 - Color:White - Engine:Electric Engine
+HybridV infomation: Model:Toyota - Years of manufacture:2024 - Color:White - Engine:Hybrid Engine
