@@ -1,5 +1,5 @@
 # FHD_ESE_Java_HA3
-This is the homework 2 solution of Java course in Embedded Systems Engineering Master.  
+This is the homework 3 solution of Java course in Embedded Systems Engineering Master.  
 
 Student name: Quyen Ho  
 
