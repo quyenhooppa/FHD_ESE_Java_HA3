@@ -5,7 +5,7 @@ Student name: Quyen Ho
 
 Number: 7221978
 
-
+***********************************
 SOLUTION OUTPUT:
 
 ICEV infomation: Model:Lexus - Years of manufacture:2023 - Color:Silver - Engine:Combustion Engine
